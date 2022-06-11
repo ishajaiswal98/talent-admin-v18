@@ -175,7 +175,7 @@ const EditUser = () => {
                   {checked? <div>
                   
                     <Form.Check type="checkbox" label=" If consultancy"  onClick={handleCheck4}/>
-                    <Form.Check type="checkbox" label=" If consultancy"  onClick={handleCheck5}/>
+                    <Form.Check type="checkbox" label=" If Individual"  onClick={handleCheck5}/>
     
   
                    </div>:<></>}
